@@ -1,0 +1,70 @@
+NICANA 
+<closed_eyes>,08:57:23,08:58:23
+<basal>,08:58:40,08:59:40
+spa\Spa_10g.jpg,08:59:40,08:59:49
+spa\Spa_2b.jpg,08:59:49,08:59:57
+spa\Spa_7b.jpg,08:59:57,09:00:05
+spa\Spa_6B&W.jpg,09:00:05,09:00:13
+spa\Spa_9B&W.jpg,09:00:13,09:00:21
+spa\Spa_8r.jpg,09:00:21,09:00:29
+spa\Spa_6b.jpg,09:00:29,09:00:37
+spa\Spa_1g.jpg,09:00:37,09:00:45
+spa\Spa_6g.jpg,09:00:45,09:00:54
+spa\Spa_7B&W.jpg,09:00:54,09:01:02
+spa\Spa_4b.jpg,09:01:02,09:01:10
+spa\Spa_9g.jpg,09:01:10,09:01:18
+spa\Spa_3g.jpg,09:01:18,09:01:26
+spa\Spa_2r.jpg,09:01:26,09:01:34
+spa\Spa_4r.jpg,09:01:34,09:01:42
+spa\Spa_6r.jpg,09:01:42,09:01:50
+spa\Spa_2B&W.jpg,09:01:50,09:01:59
+spa\Spa_10b.jpg,09:01:59,09:02:07
+spa\Spa_3B&W.jpg,09:02:07,09:02:15
+spa\Spa_8b.jpg,09:02:15,09:02:23
+imagenes\EP ECONOMIA 2.jpg,09:02:23,09:02:31
+imagenes\NAVIDAD.jpg,09:02:31,09:02:39
+imagenes\RIFF CRECIMIENTO PERSONAL 3.jpg,09:02:39,09:02:48
+imagenes\LOT-R 3.jpg,09:02:48,09:02:56
+imagenes\RIFF DOMINIO DEL ENTORNO 3.jpg,09:02:56,09:03:04
+imagenes\RIFF PROPOSITO EN LA VIDA 3.jpg,09:03:04,09:03:12
+imagenes\EP SALUD 2.jpg,09:03:12,09:03:21
+imagenes\LECTURA.jpg,09:03:21,09:03:29
+imagenes\PSWQ 2.jpg,09:03:29,09:03:37
+imagenes\RIFF RELACIONES POSITIVAS 2.jpg,09:03:37,09:03:46
+imagenes\SWLS 2.jpg,09:03:46,09:03:54
+imagenes\RIFF AUTOACEPTACION 3.jpg,09:03:54,09:04:02
+imagenes\EP SALUD 1.jpg,09:04:02,09:04:11
+imagenes\RIFF AUTONOMIA 2.jpg,09:04:11,09:04:19
+imagenes\ACTO RELIGIOSO.jpg,09:04:19,09:04:27
+imagenes\WHOQOL RELACIONES 3.jpg,09:04:27,09:04:36
+imagenes\WHOQOL ENTORNO 3.jpg,09:04:36,09:04:44
+imagenes\VIAJE EGIPTO.jpg,09:04:44,09:04:52
+imagenes\EP FAMILIA 1.jpg,09:04:52,09:05:00
+imagenes\RIFF PROPOSITO EN LA VIDA 1.jpg,09:05:00,09:05:09
+imagenes\SWLS 1.jpg,09:05:09,09:05:17
+imagenes\LOT-R 1.jpg,09:05:17,09:05:25
+imagenes\EP FAMILIA 3.jpg,09:05:25,09:05:33
+imagenes\WHOQOL ENTORNO 2.jpg,09:05:33,09:05:42
+imagenes\BALLET.jpg,09:05:42,09:05:50
+imagenes\EP SOCIOAFECTIVO 3.JPG,09:05:50,09:05:58
+imagenes\EP SOCIOAFECTIVO 2.JPG,09:05:58,09:06:06
+imagenes\EP SALUD 3.jpg,09:06:06,09:06:14
+imagenes\RIFF DOMINIO DEL ENTORNO 2.jpg,09:06:14,09:06:23
+imagenes\PSWQ 1.jpg,09:06:23,09:06:31
+imagenes\RIFF AUTOACEPTACION 1.jpg,09:06:31,09:06:39
+imagenes\WHOQOL PSICOLOGICO 2.jpg,09:06:39,09:06:47
+imagenes\EP SOCIOAFECTIVO 1.JPG,09:06:47,09:06:56
+imagenes\EP PERDIDA COMPETENCIAS 3.jpg,09:06:56,09:07:04
+imagenes\WHOQOL ENTORNO 1.jpg,09:07:04,09:07:12
+imagenes\PSWQ 3.jpg,09:07:12,09:07:21
+imagenes\WHOQOL SALUD 2.jpg,09:07:21,09:07:29
+imagenes\LOT-R 2.jpg,09:07:29,09:07:37
+imagenes\RIFF AUTONOMIA 3.jpg,09:07:37,09:07:45
+imagenes\WHOQOL SALUD 3.jpg,09:07:45,09:07:53
+<basal>,09:07:53,09:08:54
+<cantab_rtis>,09:15:12,09:17:20
+<cantab_rti5>,09:18:37,09:20:36
+<cantab_ert>,09:22:36,09:28:50
+<cantab_ots>,09:32:51,09:41:12
+<cantab_swm>,09:43:15,09:44:21
+<basal>,09:44:47,09:45:47
